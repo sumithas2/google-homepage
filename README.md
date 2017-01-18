@@ -1,1 +1,3 @@
-From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
+Result Page:
+
+https://cdn.rawgit.com/sumithas2/google-homepage/2d619b1e/index.html
